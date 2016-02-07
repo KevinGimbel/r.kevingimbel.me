@@ -1,0 +1,22 @@
+{
+  "name": "github-redirect",
+  "version": "1.0.0",
+  "description": "A server redirecting all URLs to GitHub if a repo exists. Otherwise shows a error page.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevingimbel/github-redirect.git"
+  },
+  "author": "Kevin Gimbel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevingimbel/github-redirect/issues"
+  },
+  "homepage": "https://github.com/kevingimbel/github-redirect#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
