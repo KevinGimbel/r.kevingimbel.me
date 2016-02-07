@@ -26,3 +26,21 @@ module.exports = {
 ```
 
 You can then customize the `error.html` file to represent your own error pages. Run `npm install` on your server and add a service or daemon to start the `server.js` script. This script needs to run from its own directory so you probably need to add a `cd path/to/script/source` before executing `node server.js`.
+
+### Examples
+
+Here are some real examples. You can play around with the live version on [r.kevingimbel.me](http://r.kevingimbel.me). Notice: There is no index so the default is "Cannot GET /".
+
+Repository URLs:
+
+* [r.kevingimbel.me/viewSwitcher](http://r.kevingimbel.me/viewSwitcher)
+* [r.kevingimbel.me/LinedUp](http://r.kevingimbel.me/LinedUp)
+* [r.kevingimbel.me/this-does-not-work](http://r.kevingimbel.me/this-does-not-work)
+* [r.kevingimbel.me/vhost](http://r.kevingimbel.me/vhost)
+* [r.kevingimbel.me/rms](http://r.kevingimbel.me/rms)
+
+GitHub Pages URLs:
+
+* [r.kevingimbel.me/ghp/viewSwitcher](http://r.kevingimbel.me/ghp/viewSwitcher)
+* [r.kevingimbel.me/ghp/jekyll-project-page-starter-kit/](http://r.kevingimbel.me/ghp/jekyll-project-page-starter-kit/)
+* [r.kevingimbel.me/ghp/nope-nothing-here](http://r.kevingimbel.me/ghp/nope-nothing-here)
